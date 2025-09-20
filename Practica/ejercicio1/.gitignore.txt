@@ -1,8 +1,0 @@
-# Ignorar todo en esta carpeta
-/*
-
-# Pero no ignorar src
-!/src/
-
-# Y no ignorar nada dentro de src
-!/src/**
