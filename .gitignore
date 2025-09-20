@@ -1,5 +1,4 @@
-# Compiled class file
-*.class
+
 
 # Log file
 *.log
@@ -19,10 +18,15 @@
 *.tar.gz
 *.rar
 
-
+# Ignorar todo en la raíz
 /*
+
+# No ignorar src
 !/src/
+
+# No ignorar nada dentro de src
 !/src/**
+
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
