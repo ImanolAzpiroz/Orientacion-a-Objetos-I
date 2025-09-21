@@ -1,4 +1,4 @@
-package ar.edu.unlp.oo1.ejercicio1;
+package ar.edu.unlp.info.oo1.ejercicio1;
 
 import java.awt.GridLayout;
 
